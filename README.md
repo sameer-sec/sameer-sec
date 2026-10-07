@@ -1,44 +1,34 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sameer</h1>
+<h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
 
-# SAMEER JASWAL
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-sec&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-sec" /> </p>
 
-`DevOps Engineer` &nbsp;·&nbsp; `Pakistan`
+- 🔭 I’m currently working on [EV Charging Digital Twin](https://github.com/sameer-sec/EV-Charging-Digital-Twin)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=888888&center=true&vCenter=true&width=420&lines=building+digital+twins;learning+aws;shipping+pipelines;i+think+i'm+from+2070" alt="typing" />
+- 🌱 I’m currently learning **AWS**
 
-</div>
+- 📝 I regularly write articles on [DevOps](DevOps)
 
-<br/>
+- 💬 Ask me about **ML , DL , AWS**
 
----
+- 📫 How to reach me **sameerjaswal477@gmail.com**
 
-<br/>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xVM-0icoc65vi84_C1qjr5e9z2xdlwBm/view?usp=sharing](https://drive.google.com/file/d/1xVM-0icoc65vi84_C1qjr5e9z2xdlwBm/view?usp=sharing)
 
-**now**&nbsp;&nbsp;&nbsp;[EV Charging Digital Twin](https://github.com/sameer-sec/EV-Charging-Digital-Twin)
-<br/>
-**learning**&nbsp;&nbsp;&nbsp;AWS
-<br/>
-**ask me about**&nbsp;&nbsp;&nbsp;ML · DL · AWS
-<br/>
-**writing**&nbsp;&nbsp;&nbsp;[dev.to](https://dev.to/sameersec) · [hashnode](https://hashnode.com/@sameerjs)
+- ⚡ Fun fact **I think Im from 2070**
 
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/sameer-jaswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sameer-jaswal" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/sameersec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sameersec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sameer-jaswal-b34222286/?isselfprofile=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-jaswal-b34222286/?isselfprofile=true" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/sameer-sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/sameer-sec" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@sameerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sameerjs" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sameerjaswal477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sameerjaswal477" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/sameer-sec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sameer-sec/" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<br/>
-
-<div align="center">
-
-`AWS` `GCP` `Docker` `Kubernetes` `Linux` `Bash` `Git` `Python` `JavaScript` `React` `Next.js` `Node.js` `TensorFlow`
-
-<br/><br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=sameer-sec&show_icons=true&hide_border=false&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333&hide_rank=true" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-sec&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=333333" alt="langs" />
-
-<br/><br/>
-
-[linkedin](https://www.linkedin.com/in/sameer-jaswal-b34222286/) &nbsp;·&nbsp; [email](mailto:sameerjaswal477@gmail.com) &nbsp;·&nbsp; [resume](https://drive.google.com/file/d/1xVM-0icoc65vi84_C1qjr5e9z2xdlwBm/view?usp=sharing) &nbsp;·&nbsp; [leetcode](https://leetcode.com/u/sameer-sec/) &nbsp;·&nbsp; [hackerrank](https://www.hackerrank.com/profile/sameerjaswal477)
-
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer-sec&show_icons=true&locale=en&layout=compact" alt="sameer-sec" /></p>
