@@ -1,34 +1,113 @@
-<h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
+<!-- Header banner -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-sec&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-sec" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4aa&height=220&section=header&text=Sameer%20Jaswal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=20" width="100%" alt="header"/>
 
-- 🔭 I’m currently working on [EV Charging Digital Twin](https://github.com/sameer-sec/EV-Charging-Digital-Twin)
+<!-- Animated typing intro -->
+<a href="https://github.com/sameer-sec">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sameer+from+Pakistan;DevOps+Engineer+%26+Cloud+Learner;Building+Digital+Twins+%26+CI%2FCD+pipelines;I+think+I'm+from+2070+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **AWS**
+<br/>
 
-- 📝 I regularly write articles on [DevOps](DevOps)
+<img src="https://komarev.com/ghpvc/?username=sameer-sec&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/sameer-sec?label=Followers&style=for-the-badge&logo=github&color=00d4aa" alt="followers" />
 
-- 💬 Ask me about **ML , DL , AWS**
+</div>
 
-- 📫 How to reach me **sameerjaswal477@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xVM-0icoc65vi84_C1qjr5e9z2xdlwBm/view?usp=sharing](https://drive.google.com/file/d/1xVM-0icoc65vi84_C1qjr5e9z2xdlwBm/view?usp=sharing)
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **I think Im from 2070**
+```yaml
+name:        Sameer Jaswal
+role:        DevOps Engineer
+location:    Pakistan 🇵🇰
+focus:       [DevOps, AWS, Kubernetes, ML/DL]
+currently:   Building an EV Charging Digital Twin
+learning:    AWS
+fun_fact:    "I think I'm from 2070"
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/sameer-jaswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sameer-jaswal" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/sameersec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sameersec" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sameer-jaswal-b34222286/?isselfprofile=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-jaswal-b34222286/?isselfprofile=true" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/sameer-sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/sameer-sec" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@sameerjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sameerjs" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sameerjaswal477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sameerjaswal477" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sameer-sec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sameer-sec/" height="30" width="40" /></a>
-</p>
+| | |
+|---|---|
+| 🔭 **Working on** | [EV Charging Digital Twin](https://github.com/sameer-sec/EV-Charging-Digital-Twin) |
+| 🌱 **Learning** | AWS (compute, networking, IaC) |
+| 📝 **Writing** | DevOps articles on [dev.to](https://dev.to/sameersec) and [Hashnode](https://hashnode.com/@sameerjs) |
+| 💬 **Ask me about** | Machine Learning, Deep Learning, AWS |
+| 📄 **Experience** | [View my resume](https://drive.google.com/file/d/1xVM-0icoc65vi84_C1qjr5e9z2xdlwBm/view?usp=sharing) |
+| 📫 **Reach me** | [sameerjaswal477@gmail.com](mailto:sameerjaswal477@gmail.com) |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer-sec&show_icons=true&locale=en&layout=compact" alt="sameer-sec" /></p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash,git,github,githubactions&perline=9" alt="devops" />
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,vue,nodejs,nestjs,tailwind,graphql&perline=11" alt="languages" />
+
+**Data, ML & Tools**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pandas,mongodb,mysql,figma,ps,unreal&perline=9" alt="data" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sameer-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-sec&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sameer-sec&theme=tokyonight&hide_border=true" alt="streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sameer-sec&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+
+</div>
+
+---
+
+## 📌 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/sameer-sec/EV-Charging-Digital-Twin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameer-sec&repo=EV-Charging-Digital-Twin&theme=tokyonight&hide_border=true" alt="EV Charging Digital Twin" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sameer-jaswal-b34222286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sameerjaswal477@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://dev.to/sameersec"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+<a href="https://hashnode.com/@sameerjs"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+<a href="https://leetcode.com/u/sameer-sec/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/sameerjaswal477"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+<a href="https://codepen.io/sameer-jaswal"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
+<a href="https://codesandbox.io/u/sameer-sec"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:0e75b6&height=100&section=footer" width="100%" alt="footer"/>
+</div>
