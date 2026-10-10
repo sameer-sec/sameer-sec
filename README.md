@@ -2,7 +2,6 @@
 <h3 align="center">DevOps Engineer from Pakistan · Cloud, Automation & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameer-sec&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://www.linkedin.com/in/sameer-jaswal-b34222286/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sameerjaswal477@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
