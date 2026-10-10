@@ -13,11 +13,11 @@
 I build and automate infrastructure, and I like pairing DevOps practices with ML so models actually make it to production.
 
 - 🔭 **Working on:** [EV Charging Digital Twin](https://github.com/sameer-sec/EV-Charging-Digital-Twin)
-- 🌱 **Learning:** AWS
+- 🌱 **Learning:** AWS Soultion Architect
 - ✍️ **Writing:** DevOps articles on [Dev.to](https://dev.to/sameersec) and [Hashnode](https://hashnode.com/@sameerjs)
 - 💬 **Ask me about:** DevOps, AWS, Machine Learning, Deep Learning
 - 📄 **Experience:** [View my resume](https://drive.google.com/file/d/1xVM-0icoc65vi84_C1qjr5e9z2xdlwBm/view?usp=sharing)
-- ⚡ **Fun fact:** I think I'm from 2070
+- ⚡ **Fun fact:** I think I'm stand up comedian
 
 ---
 
@@ -45,15 +45,6 @@ I build and automate infrastructure, and I like pairing DevOps practices with ML
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design tools" />
-</p>
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameer-sec&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-sec&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
